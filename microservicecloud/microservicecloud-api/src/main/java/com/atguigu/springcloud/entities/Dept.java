@@ -26,7 +26,10 @@ public class Dept implements Serializable// entity --orm--- db_table
 		this.dname = dname;
 		
 		
+<<<<<<< HEAD
 		sysosdfdsfdsfsd;
+=======
+>>>>>>> branch 'master' of https://github.com/zhaotianli/first-demo01.git
 	}
 	
 	
